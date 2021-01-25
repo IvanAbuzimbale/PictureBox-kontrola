@@ -1,0 +1,9 @@
+C:\Users\ivanm\source\repos\PictureBox kontrola\PictureBox kontrola\bin\Debug\PictureBox kontrola.exe.config
+C:\Users\ivanm\source\repos\PictureBox kontrola\PictureBox kontrola\bin\Debug\PictureBox kontrola.exe
+C:\Users\ivanm\source\repos\PictureBox kontrola\PictureBox kontrola\bin\Debug\PictureBox kontrola.pdb
+C:\Users\ivanm\source\repos\PictureBox kontrola\PictureBox kontrola\obj\Debug\PictureBox_kontrola.Form1.resources
+C:\Users\ivanm\source\repos\PictureBox kontrola\PictureBox kontrola\obj\Debug\PictureBox_kontrola.Properties.Resources.resources
+C:\Users\ivanm\source\repos\PictureBox kontrola\PictureBox kontrola\obj\Debug\PictureBox kontrola.csproj.GenerateResource.cache
+C:\Users\ivanm\source\repos\PictureBox kontrola\PictureBox kontrola\obj\Debug\PictureBox kontrola.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\PictureBox kontrola\PictureBox kontrola\obj\Debug\PictureBox kontrola.exe
+C:\Users\ivanm\source\repos\PictureBox kontrola\PictureBox kontrola\obj\Debug\PictureBox kontrola.pdb
